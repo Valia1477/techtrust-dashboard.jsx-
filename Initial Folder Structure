@@ -1,0 +1,12 @@
+techtrust-dashboard/
+├── backend/                 # Node.js API (Firebase, webhook handling)
+│   └── index.js
+├── frontend/                # React + Tailwind Dashboard
+│   ├── pages/
+│   ├── components/
+│   └── tailwind.config.js
+├── public/
+├── .gitignore
+├── README.md
+├── LICENSE
+└── package.json
